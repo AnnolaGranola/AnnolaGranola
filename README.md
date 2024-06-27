@@ -1,4 +1,9 @@
-## Hi there 👋
+## Oi!
+Anna Julia
+
+Estudando com a Alura
+
+3° ano B
 
 <!--
 **AnnolaGranola/AnnolaGranola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
